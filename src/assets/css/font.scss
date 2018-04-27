@@ -1,0 +1,19 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'icon-juke';
+    /* project id："87500" */
+    src: url('//at.alicdn.com/t/font_87500_9xvdwgjwt26e0zfr.eot');
+    src: url('//at.alicdn.com/t/font_87500_9xvdwgjwt26e0zfr.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_87500_9xvdwgjwt26e0zfr.woff') format('woff'),
+    url('//at.alicdn.com/t/font_87500_9xvdwgjwt26e0zfr.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_87500_9xvdwgjwt26e0zfr.svg#iconfont') format('svg');
+    font-style: normal;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+}
+
+.icon-juke {
+    display: inline-block;
+    font-family: "icon-juke";
+}
